@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Rafael Rocha</h1>
 <h3 align="center">A passionate brazilian full-stack developer</h3>
 
-- 🔭 I’m currently working on [Ambulant](https://www.ambulantapp.com)
-
 - 🌱 I’m currently learning **React.js, Redux, AWS and Docker**
 
 - 💬 Ask me about **JavaScript, Ruby on Rails and SQL**
