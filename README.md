@@ -1,12 +1,12 @@
 <h1 align="center">Hello, I'm Rafael Rocha</h1>
 <h3 align="center">A passionate brazilian full-stack developer</h3>
-
-
+<br>
 - 🌱 I’m currently learning **React.js, Redux, AWS and Docker**
 
 - 💬 Ask me about **JavaScript, Ruby on Rails and SQL**
 
 - 📫 How to reach me **rafaelmachadodarocha@gmail.com**
+<br>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
