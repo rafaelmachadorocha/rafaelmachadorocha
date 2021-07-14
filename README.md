@@ -1,7 +1,7 @@
 <h1 align="center">Rafael Rocha</h1>
 <h3 align="center">Full-stack developer</h3>
 
-- 🔭 I’m currently working on [Moove](https://moovelogistica.pt/)
+- 🔭 I’m currently working on [Talenses](https://talenses.com/)
 
 - 🌱 I’m currently learning **React.js, Redux, AWS and Docker**
 
