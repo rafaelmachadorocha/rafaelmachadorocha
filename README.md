@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on TRF6
 - 🌱 I’m currently learning **Laravel, PHP, AWS and Docker**
-- 💬 Ask me about **Ruby on Rails and Ruby**
+- 💬 Ask me about **Ruby on Rails, React and Ruby**
 - 📫 How to reach me **rafaelmachadodarocha@gmail.com**
 <p align="left">
 <h3 align="left">Connect with me:</h3>
