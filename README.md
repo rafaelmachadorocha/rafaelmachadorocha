@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer</h3>
 
 - 🔭 I’m currently working on TRF6
-- 🌱 I’m currently learning **Laravel, PHP, AWS and Docker**
+- 🌱 I’m currently learning **Laravel, PHP, Vue, AWS and Docker**
 - 💬 Ask me about **Ruby on Rails, React and Ruby**
 - 📫 How to reach me **rafaelmachadodarocha@gmail.com**
 <p align="left">
