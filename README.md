@@ -7,5 +7,5 @@
 - 📫 How to reach me **rafaelmachadodarocha@gmail.com**
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://instagram.com/db_drop" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aoi_komoretsuki" height="30" width="40" /></a>
+<a href="https://instagram.com/db_drop_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aoi_komoretsuki" height="30" width="40" /></a>
 </p>
